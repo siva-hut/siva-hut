@@ -1,55 +1,83 @@
-### Hello, I am siva :)
-
-Passionate Full Stack Developer. I like building apps using Flutter and develop backend using Go. Love using new technologies.
-
-- 🌱 I’m currently learning Jetpack Compose
-- 📫 Find me at [<img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width = "15px" height = "15px">](https://www.linkedin.com/in/aman-sinha-b242531b8)
-- BTW I use Arch.
-
-### Languages and Tools
-![](https://img.shields.io/badge/OS-Archlinux-informational?style=for-the-badge&logo=Archlinux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Go-informational?style=for-the-badge&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Fiber-informational?style=for-the-badge&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Actix-informational?style=for-the-badge&logo=rust&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Node.JS-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Spring-informational?style=for-the-badge&logo=spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnubash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Nginx-informational?style=for-the-badge&logo=nginx&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-Redis-informational?style=for-the-badge&logo=redis&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=white&color=2bbc8a)
-
-### Github Stats
-
-<a href = "https://github.com/Perniciosius">
-<img src = "https://github-readme-stats.vercel.app/api?username=Perniciosius&count_private=true&show_icons=true&theme=algolia&border_radius=15"></img>
-</a>
-<a href = "https://github.com/Perniciosius">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Perniciosius&langs_count=8&layout=compact&theme=algolia&border_radius=15&hide=Javascript, Jupyter Notebook, html"></img>
-</a>
 
 
-### Repositories
+### <div align="center">Siva an, aspiring developer</div>  
+  
 
-<a href = "https://github.com/Perniciosius/codeit">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=Perniciosius&repo=codeit&theme=algolia&border_radius=15"></img>
-</a>
-<a href = "https://github.com/Perniciosius/Todo_Jetpack_Compose">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=Perniciosius&repo=Todo_Jetpack_Compose&theme=algolia&border_radius=15"></img>
-</a>
-<a href = "https://github.com/Perniciosius/dotslash">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=Perniciosius&repo=dotslash&theme=algolia&border_radius=15"></img>
-</a>
-<a href = "https://github.com/Perniciosius/weather">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=Perniciosius&repo=weather&theme=algolia&border_radius=15"></img>
-</a>
+- 🔭 Very good with data structure and algorithms  
+  
+
+- 🌱 Learning more about web technology recently  
+  
+
+- ❓ GO, C++, Java, Python, Matlab  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=siva-hut&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
