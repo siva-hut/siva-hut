@@ -1,8 +1,4 @@
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">Siva an, aspiring developer</div>  
   
@@ -72,27 +68,6 @@
 
 <br/>  
 
-
-## Connect with me  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=siva-hut&&style=flat-square" align="center" />
