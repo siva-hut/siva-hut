@@ -1,6 +1,6 @@
 
 
-### <div align="center">Siva an, aspiring developer</div>  
+### <div align="center">Siva an, aspiring developer trying to build a career out of it</div>  
   
 
 - 🔭 Very good with data structure and algorithms  
